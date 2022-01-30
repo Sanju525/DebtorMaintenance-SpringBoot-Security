@@ -57,12 +57,12 @@
     <hr>
     <h5>Personal Details</h5>
     <hr>
-    <div class="row mb-3">
+<!--     <div class="row mb-3">
         <label class="col-sm-2 col-form-label"><strong>DebtorID</strong></label>
         <div class="col-sm-10">
             <form:input path="id" readonly="true" cssClass="form-control"/>
         </div>
-    </div>
+    </div> -->
     <div class="row mb-3">
         <label class="col-sm-2 col-form-label">Name</label>
         <div class="col-sm-10">
