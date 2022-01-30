@@ -40,7 +40,7 @@
                     <span class="error">${error}</span><br>
                 </jstl:forEach>
                 <label>Confirm Password</label>
-                <input type="text" name="confirmPassword" class="form-control">
+                <input type="password" name="confirmPassword" class="form-control">
                 <jstl:forEach items="${cnfErrors}" var="error">
                     <span class="error">${error}</span>
                 </jstl:forEach>
