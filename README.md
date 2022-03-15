@@ -19,3 +19,15 @@ This project includes spring security with JPA implementation.
 3. ```Logger``` is included for logging the operations.
 4. ```Testing``` for database operations is performed.
 5. ```Spring validation``` is included.
+
+## :basecamp: Team
+
+:octocat:	[Sanjay Ganesh Seelam](https://github.com/Sanju525)
+
+:octocat:	[Vamshi Krishna Yadav M](https://github.com/Mvkyadav)
+
+:octocat:	[Suraj Kumar](#)
+
+:octocat:	[Chaitanya](#)
+
+:octocat:	[Aliya Khan](#)
