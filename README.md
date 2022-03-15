@@ -30,4 +30,4 @@ This project includes spring security with JPA implementation.
 
 :octocat:	[Alugoji Chaitanya](#)
 
-:octocat:	[Phaniband Aliya](#)
+:octocat:	[Phaniband Aliya](https://github.com/AliyaKhanP)
