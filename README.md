@@ -22,7 +22,7 @@ This project includes spring security with JPA implementation.
 
 ## :basecamp: Team
 
-:octocat:	[Alugoji Chaitanya](#)
+:octocat:	[Alugoji Chaitanya](https://github.com/Chaitanya0781)
 
 :octocat:	[Phaniband Aliya](https://github.com/AliyaKhanP)
 
