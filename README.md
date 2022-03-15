@@ -28,7 +28,7 @@ This project includes spring security with JPA implementation.
 
 :octocat:	[Sanjay Ganesh Seelam](https://github.com/Sanju525)
 
-:octocat:	[Suraj Shivpoojan Mourya](#)
+:octocat:	[Suraj Shivpoojan Mourya](https://github.com/suraj-10)
 
 :octocat:	[Vamshi Krishna Yadav M](https://github.com/Mvkyadav)
 
