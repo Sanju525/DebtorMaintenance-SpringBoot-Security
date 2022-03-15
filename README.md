@@ -22,12 +22,13 @@ This project includes spring security with JPA implementation.
 
 ## :basecamp: Team
 
-:octocat:	[Sanjay Ganesh Seelam](https://github.com/Sanju525)
-
-:octocat:	[Vamshi Krishna Yadav M](https://github.com/Mvkyadav)
-
-:octocat:	[Suraj Shivpoojan Mourya](#)
-
 :octocat:	[Alugoji Chaitanya](#)
 
 :octocat:	[Phaniband Aliya](https://github.com/AliyaKhanP)
+
+:octocat:	[Sanjay Ganesh Seelam](https://github.com/Sanju525)
+
+:octocat:	[Suraj Shivpoojan Mourya](#)
+
+:octocat:	[Vamshi Krishna Yadav M](https://github.com/Mvkyadav)
+
