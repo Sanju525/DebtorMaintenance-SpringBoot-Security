@@ -26,8 +26,8 @@ This project includes spring security with JPA implementation.
 
 :octocat:	[Vamshi Krishna Yadav M](https://github.com/Mvkyadav)
 
-:octocat:	[Suraj Kumar](#)
+:octocat:	[Suraj Shivpoojan Mourya](#)
 
-:octocat:	[Chaitanya](#)
+:octocat:	[Alugoji Chaitanya](#)
 
-:octocat:	[Aliya Khan](#)
+:octocat:	[Phaniband Aliya](#)
