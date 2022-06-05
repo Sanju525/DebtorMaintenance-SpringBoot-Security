@@ -14,7 +14,7 @@ This project includes spring security with JPA implementation.
 6. Run the project as ```SpringBoot Application```.
 7. Now you can view the application at ```localhost:8080```.
 ### docker run
-You can also use this :whale:[docker image](https://hub.docker.com/repository/docker/sanjayganesh/debtormaintenance) to run the application.
+You can also use this :whale: [docker image](https://hub.docker.com/repository/docker/sanjayganesh/debtormaintenance) to run the application.
 
 ## :gear: Features
 
