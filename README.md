@@ -2,7 +2,9 @@
 
 This project includes spring security with JPA implementation.
 
-## :gear: Running the project
+## :gear: Run the Application
+
+### configure and run
 
 1. Download the project using ```git clone``` or by zip.
 2. Open ```DebtorMaintenance``` directory in you respective ```IDE``` and update the project by ```maven update```.
@@ -11,6 +13,8 @@ This project includes spring security with JPA implementation.
 5. The tables will be automatically created, when the application starts. There is no need for creating tables manually.
 6. Run the project as ```SpringBoot Application```.
 7. Now you can view the application at ```localhost:8080```.
+### docker run
+You can also use this :whale:[docker image](https://hub.docker.com/repository/docker/sanjayganesh/debtormaintenance) to run the application.
 
 ## :gear: Features
 
